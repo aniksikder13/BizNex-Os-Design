@@ -249,3 +249,9 @@ This architecture is designed to evolve into:
 BizNex OS is built as:
 
 > A modular, multi-tenant ERP backend system with strict separation of business domains, ledger-based financial integrity, and scalable Django service-layer architecture.
+
+# 🧭 Deployment Status
+The system is currently deployed and accessible:
+
+Swagger UI: https://anik-biznex-os.onrender.com/api/docs/
+ReDoc: https://anik-biznex-os.onrender.com/api/redoc/
