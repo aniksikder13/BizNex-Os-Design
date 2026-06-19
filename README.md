@@ -1,4 +1,4 @@
-# 🧠 BizNex OS — System Architecture (Clean Production Design)
+# 🧠 BizNex OS - System Architecture (Clean Production Design)
 ---
 ![Banner](./docs/banner.png)
 ---
