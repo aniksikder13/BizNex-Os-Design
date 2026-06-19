@@ -253,5 +253,5 @@ BizNex OS is built as:
 # 🧭 Deployment Status
 The system is currently deployed and accessible:
 
-Swagger UI: https://anik-biznex-os.onrender.com/api/docs/
-ReDoc: https://anik-biznex-os.onrender.com/api/redoc/
+* Swagger UI: https://anik-biznex-os.onrender.com/api/docs/
+* ReDoc: https://anik-biznex-os.onrender.com/api/redoc/
